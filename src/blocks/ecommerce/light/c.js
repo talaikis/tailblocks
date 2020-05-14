@@ -11,7 +11,7 @@ function LightEcommerceC(props) {
               BRAND NAME
             </h2>
             <h1 className="text-gray-900 text-3xl title-font font-medium mb-4">
-              Messaging App UI with Dark Mode
+              Messaging App UI
             </h1>
             <div className="flex mb-4">
               <a href className={`flex-grow text-${props.theme}-500 border-b-2 border-${props.theme}-500 py-2 text-lg px-1`}>
